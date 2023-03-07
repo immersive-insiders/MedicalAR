@@ -1,7 +1,3 @@
----
-driveId: 
----
-
 # MedicalAR
 
 ## Repository Details:
@@ -26,17 +22,4 @@ driveId:
 
 ## Final Result 
 
-{% include googleDrivePlayer.html id=page.1XQ12g2MQkH_L42V7uOFmUR7GT4xoLS80/preview %}
-
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="https://drive.google.com/file/d/1XQ12g2MQkH_L42V7uOFmUR7GT4xoLS80/preview" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="https://github.com/immersive-insiders/MedicalAR/blob/main/googleDrivePlayer.html/preview" ></iframe>
-
-</body>
-</html>
+[Video](https://drive.google.com/file/d/1XQ12g2MQkH_L42V7uOFmUR7GT4xoLS80/view?usp=share_link)
