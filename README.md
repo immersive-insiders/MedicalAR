@@ -1,5 +1,5 @@
 ---
-driveId: 1XQ12g2MQkH_L42V7uOFmUR7GT4xoLS80/preview
+driveId: 
 ---
 
 # MedicalAR
@@ -26,4 +26,17 @@ driveId: 1XQ12g2MQkH_L42V7uOFmUR7GT4xoLS80/preview
 
 ## Final Result 
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html id=page.1XQ12g2MQkH_L42V7uOFmUR7GT4xoLS80/preview %}
+
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/file/d/1XQ12g2MQkH_L42V7uOFmUR7GT4xoLS80/preview" ></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="https://github.com/immersive-insiders/MedicalAR/blob/main/googleDrivePlayer.html/preview" ></iframe>
+
+</body>
+</html>
