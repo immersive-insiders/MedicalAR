@@ -7,7 +7,7 @@
 
 ## Project details:
 - The software [3D slicer](https://www.slicer.org/) is used to generate 3D models using data from MRI/CT scans.
-- Foe generating the Brain and Tumore model, [this]() dataset was used.
+- Foe generating the Brain and Tumore model, [this](https://drive.google.com/drive/folders/1o8q-yIiTF92CyM0O_cOSr9Y3z1AmkMZ-?usp=drive_link) dataset was used.
 - The project uses the 'image detection' feature of AR Foundation to instantiate the model.
 
 ## How to set up the Project?
